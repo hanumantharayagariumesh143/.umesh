@@ -1,79 +1,65 @@
-<h1 align="center">Hi, I'm Umesh 👋</h1>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=hanumantharayagariumesh143&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F348956504%3Fu%3D40936ae1dc49c98c0eac8a1919da5c9194afe0f9%26v%3D4" alt="hanumantharayagariumesh143 hero visual" />
+</p>
+
+<p align="center"><b>Hanumantharayagari Umesh</b> · Product-minded developer<br/><sub>BTech CSE @ NIAT | Learning Python 🐍 | Aspiring Full Stack + AI Dev</sub></p>
+
+<p align="center"><a href="https://github.com/hanumantharayagariumesh143">GitHub</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <b>Aspiring Software Developer</b> · B.Tech CSE @ NxtWave Institute of Advanced Technologies<br>
-  Full Stack + AI Development · Anantapur, Andhra Pradesh, India 🇮🇳
+  <img src="https://www.gitskins.com/api/section/projects?username=hanumantharayagariumesh143&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F348956504%3Fu%3D40936ae1dc49c98c0eac8a1919da5c9194afe0f9%26v%3D4" alt="hanumantharayagariumesh143 projects visual" />
 </p>
+
+- [S2](https://github.com/hanumantharayagariumesh143/S2) · ★ 0
+- [.umesh](https://github.com/hanumantharayagariumesh143/.umesh) · ★ 0
+- [umesh](https://github.com/hanumantharayagariumesh143/umesh) · ★ 0
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/h-umesh-g-0a2a97436"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:hanumantharayagariumesh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/hanumantharayagariumesh143"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://www.gitskins.com/api/section/stack?username=hanumantharayagariumesh143&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F348956504%3Fu%3D40936ae1dc49c98c0eac8a1919da5c9194afe0f9%26v%3D4" alt="hanumantharayagariumesh143 stack visual" />
 </p>
 
----
+</details>
 
-## 🧑‍💻 About Me
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** (2026 – 2030) with an **Industry Ready Certification in Full Stack + AI Development**
-- 🐍 Currently learning **Python**, **Git** and **GitHub** through daily hands-on practice
-- 🔥 Built a **six-day consecutive coding streak** and I'm working to keep it going
-- 🌱 Next up: HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, SQLite and MongoDB
-- 🗣️ I speak **English, Telugu and Kannada**
-
----
-
-## 🛠️ Tech Stack
-
-**Learning now**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Current skills">
-</p>
-
-**On my 2026–27 roadmap**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,sqlite,mongodb" alt="Roadmap skills">
-</p>
-
----
-
-## 📂 Featured Project
-
-### 🐍 Python Practice: Daily Coding Repository
-*May 2026 – Present · Python, Git, GitHub, VS Code*
-
-- 30+ Python practice programs organised into `day_1` to `day_4` folders
-- Covers variables, data types, strings, slicing and indexing, input/output, type conversion and relational operators
-- 8+ coding challenges solved on the NxtWave CCBP platform (GreaterThan70, EqualTo, SubtractionOfNum, RemainderCalc, AreaOfRectangle)
-- Progress tracked and published with `git add`, `git commit` and `git push`
-
-👉 [View my repositories](https://github.com/hanumantharayagariumesh143?tab=repositories)
-
----
-
-## 📊 GitHub Stats
+<b>3</b> public repositories, <b>0</b> stars, <b>4</b> contributions in the last year, a longest streak of <b>1</b> days and <b>2</b> followers.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hanumantharayagariumesh143&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanumantharayagariumesh143&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://www.gitskins.com/api/section/stats?username=hanumantharayagariumesh143&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F348956504%3Fu%3D40936ae1dc49c98c0eac8a1919da5c9194afe0f9%26v%3D4" alt="hanumantharayagariumesh143 stats visual" />
 </p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanumantharayagariumesh143&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=hanumantharayagariumesh143&theme=neon" alt="hanumantharayagariumesh143 contribution activity" />
 </p>
 
----
+</details>
 
-## 🎯 Currently Focused On
-
-- Writing a little code every day and pushing it to GitHub
-- Strengthening problem-solving fundamentals in Python
-- Getting ready to start web development with HTML, CSS and JavaScript
-
----
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
 <p align="center">
-  <i>Open to learning, collaborating and contributing to practical software projects. 🚀</i>
+  <img src="https://www.gitskins.com/api/section/social?username=hanumantharayagariumesh143&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F348956504%3Fu%3D40936ae1dc49c98c0eac8a1919da5c9194afe0f9%26v%3D4" alt="hanumantharayagariumesh143 social visual" />
 </p>
+
+</details>
+
+<p align="center"><sub>Hanumantharayagari Umesh · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
